@@ -11,8 +11,8 @@ I am always open to collaboration and new opportunities, so feel free to reach o
 ---
 🧰Toolbox<br>
 <br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="alt text" title="image Title" width="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="alt text" title="image Title" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="alt text" title="image Title" width="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="alt text" title="image Title" width="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="alt text" title="image Title" width="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="alt text" title="image Title" width="40"/>
